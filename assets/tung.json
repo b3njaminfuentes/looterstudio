@@ -1,0 +1,34 @@
+{
+  "name": "tung tung tung sahur · 1/1 · LooterStudio verified",
+  "symbol": "LOOT",
+  "description": "tung tung tung sahur. 1/1. LooterStudio verified.",
+  "image": "https://b3njaminfuentes.github.io/looterstudio/assets/tung.jpg",
+  "external_url": "https://looterstudio.github.io/#market",
+  "attributes": [
+    {
+      "trait_type": "house",
+      "value": "LooterStudio®"
+    },
+    {
+      "trait_type": "edition",
+      "value": "1/1"
+    },
+    {
+      "trait_type": "status",
+      "value": "LooterStudio verified"
+    },
+    {
+      "trait_type": "year",
+      "value": "MMXXVI"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://b3njaminfuentes.github.io/looterstudio/assets/tung.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
